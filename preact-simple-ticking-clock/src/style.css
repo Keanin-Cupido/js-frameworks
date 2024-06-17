@@ -41,6 +41,12 @@ section {
 	column-gap: 1.5rem;
 }
 
+span {
+	font-family: monospace;
+	font-size: 2rem;
+	font-weight: bold;
+}
+
 @media (max-width: 639px) {
 	#app {
 		margin: 2rem;
